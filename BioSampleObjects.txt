@@ -1,0 +1,175 @@
+Accession	Sample Name	SPUID	Organism	Tax ID	Strain	Breed	Cultivar	Isolate	BioProject
+SAMN13545925	ETA_001	ETA_001	Myrmoborus lugubris berlepschi	2684373	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545926	ETA_002	ETA_002	Myrmoborus lugubris berlepschi	2684373	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545927	ETA_004	ETA_004	Myrmoborus lugubris berlepschi	2684373	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545928	ETA_009	ETA_009	Myrmoborus lugubris berlepschi	2684373	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545929	ETA_052	ETA_052	Myrmoborus lugubris berlepschi	2684373	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545930	ETA_053	ETA_053	Myrmoborus lugubris berlepschi	2684373	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545931	ETA_073	ETA_073	Myrmoborus lugubris berlepschi	2684373	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545932	ETA_074	ETA_074	Myrmoborus lugubris berlepschi	2684373	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545933	ETA_093	ETA_093	Myrmoborus lugubris berlepschi	2684373	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545934	ETA_094	ETA_094	Myrmoborus lugubris berlepschi	2684373	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545935	ETA_096	ETA_096	Myrmoborus lugubris berlepschi	2684373	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545936	ETA_114	ETA_114	Myrmoborus lugubris berlepschi	2684373	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545937	ETA_115	ETA_115	Myrmoborus lugubris berlepschi	2684373	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545938	ETA_162	ETA_162	Myrmoborus lugubris berlepschi	2684373	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545939	ETA_163	ETA_163	Myrmoborus lugubris berlepschi	2684373	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545940	ETA_164	ETA_164	Myrmoborus lugubris berlepschi	2684373	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545941	ETA_165	ETA_165	Myrmoborus lugubris berlepschi	2684373	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545942	ETA_166	ETA_166	Myrmoborus lugubris berlepschi	2684373	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545943	ETA_194	ETA_194	Myrmoborus lugubris berlepschi	2684373	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545944	ETA_196	ETA_196	Myrmoborus lugubris berlepschi	2684373	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545945	ETA_233	ETA_233	Myrmoborus lugubris berlepschi	2684373	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545946	ETA_234	ETA_234	Myrmoborus lugubris berlepschi	2684373	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545947	ETA_235	ETA_235	Myrmoborus lugubris berlepschi	2684373	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545948	ETA_236	ETA_236	Myrmoborus lugubris berlepschi	2684373	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545949	ETA_237	ETA_237	Myrmoborus lugubris berlepschi	2684373	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545950	ETA_238	ETA_238	Myrmoborus lugubris berlepschi	2684373	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545951	TVVC_25	TVVC_25	Myrmoborus lugubris berlepschi	2684373	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545952	ETA_246	ETA_246	Myrmoborus lugubris berlepschi	2684373	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545953	ETA_256	ETA_256	Myrmoborus lugubris berlepschi	2684373	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545954	ETA_257	ETA_257	Myrmoborus lugubris berlepschi	2684373	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545955	ETA_258	ETA_258	Myrmoborus lugubris berlepschi	2684373	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545956	ETA_368	ETA_368	Myrmoborus lugubris femininus	2684375	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545957	ETA_369	ETA_369	Myrmoborus lugubris femininus	2684375	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545958	ETA_370	ETA_370	Myrmoborus lugubris femininus	2684375	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545959	ETA_371	ETA_371	Myrmoborus lugubris femininus	2684375	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545960	ETA_372	ETA_372	Myrmoborus lugubris femininus	2684375	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545961	ETA_373	ETA_373	Myrmoborus lugubris femininus	2684375	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545962	ETA_385	ETA_385	Myrmoborus lugubris femininus	2684375	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545963	ETA_429	ETA_429	Myrmoborus lugubris femininus	2684375	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545964	ETA_430	ETA_430	Myrmoborus lugubris femininus	2684375	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545965	ETA_431	ETA_431	Myrmoborus lugubris femininus	2684375	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545966	ETA_432	ETA_432	Myrmoborus lugubris femininus	2684375	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545967	ETA_433	ETA_433	Myrmoborus lugubris femininus	2684375	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545968	ETA_434	ETA_434	Myrmoborus lugubris femininus	2684375	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545969	ETA_465	ETA_465	Myrmoborus lugubris femininus x lugubris	2684383	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545970	ETA_497	ETA_497	Myrmoborus lugubris femininus x lugubris	2684383	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545971	ETA_498	ETA_498	Myrmoborus lugubris femininus x lugubris	2684383	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545972	ETA_499	ETA_499	Myrmoborus lugubris femininus x lugubris	2684383	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545973	ETA_500	ETA_500	Myrmoborus lugubris femininus x lugubris	2684383	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545974	ETA_501	ETA_501	Myrmoborus lugubris femininus x lugubris	2684383	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545975	ETA_502	ETA_502	Myrmoborus lugubris femininus x lugubris	2684383	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545976	ETA_508	ETA_508	Myrmoborus lugubris femininus x lugubris	2684383	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545977	ETA_512	ETA_512	Myrmoborus lugubris lugubris	2684372	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545978	ETA_513	ETA_513	Myrmoborus lugubris lugubris	2684372	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545979	ETA_514	ETA_514	Myrmoborus lugubris lugubris	2684372	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545980	ETA_515	ETA_515	Myrmoborus lugubris lugubris	2684372	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545981	ETA_516	ETA_516	Myrmoborus lugubris lugubris	2684372	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545982	ETA_534	ETA_534	Myrmoborus lugubris lugubris	2684372	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545983	ETA_563	ETA_563	Myrmoborus lugubris lugubris	2684372	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545984	ETA_564	ETA_564	Myrmoborus lugubris lugubris	2684372	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545985	ETA_565	ETA_565	Myrmoborus lugubris lugubris	2684372	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545986	ETA_566	ETA_566	Myrmoborus lugubris lugubris	2684372	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545987	ETA_567	ETA_567	Myrmoborus lugubris lugubris	2684372	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545988	ETA_597	ETA_597	Myrmoborus lugubris lugubris	2684372	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545989	ETA_598	ETA_598	Myrmoborus lugubris lugubris	2684372	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545990	ETA_599	ETA_599	Myrmoborus lugubris lugubris	2684372	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545991	ETA_600	ETA_600	Myrmoborus lugubris lugubris	2684372	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545992	ETA_601	ETA_601	Myrmoborus lugubris lugubris	2684372	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545993	ETA_645	ETA_645	Myrmoborus lugubris lugubris	2684372	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545994	ETA_646	ETA_646	Myrmoborus lugubris lugubris	2684372	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545995	CFV_65	CFV_65	Myrmoborus lugubris stictopterus	2684374	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545996	AMFP_126	AMFP_126	Myrmoborus lugubris stictopterus	2684374	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545997	GRL_1237	GRL_1237	Myrmoborus lugubris stictopterus	2684374	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545998	GRL_1240	GRL_1240	Myrmoborus lugubris stictopterus	2684374	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13545999	SHB_308	SHB_308	Myrmoborus lugubris stictopterus	2684374	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546000	SHB_293	SHB_293	Myrmoborus lugubris stictopterus	2684374	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546001	GRL_1426	GRL_1426	Myrmoborus lugubris stictopterus	2684374	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546002	GRL_1429	GRL_1429	Myrmoborus lugubris stictopterus	2684374	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546003	SHBs_54	SHBs_54	Myrmoborus lugubris stictopterus	2684374	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546004	SHBs_56	SHBs_56	Myrmoborus lugubris stictopterus	2684374	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546005	AMA_427	AMA_427	Myrmotherula assimilis assimilis	2684376	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546006	AMA_475	AMA_475	Myrmotherula assimilis assimilis	2684376	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546007	ETA_046	ETA_046	Myrmotherula assimilis assimilis	2684376	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546008	ETA_051	ETA_051	Myrmotherula assimilis assimilis	2684376	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546009	ETA_054	ETA_054	Myrmotherula assimilis assimilis	2684376	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546010	ETA_081	ETA_081	Myrmotherula assimilis assimilis	2684376	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546011	ETA_097	ETA_097	Myrmotherula assimilis assimilis	2684376	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546012	ETA_098	ETA_098	Myrmotherula assimilis assimilis	2684376	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546013	JUT269	JUT269	Myrmotherula assimilis assimilis	2684376	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546014	ETA_212	ETA_212	Myrmotherula assimilis assimilis	2684376	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546015	ETA_254	ETA_254	Myrmotherula assimilis assimilis	2684376	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546016	ETA_269	ETA_269	Myrmotherula assimilis assimilis	2684376	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546017	ETA_337	ETA_337	Myrmotherula assimilis assimilis	2684376	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546018	ETA_338	ETA_338	Myrmotherula assimilis assimilis	2684376	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546019	ETA_339	ETA_339	Myrmotherula assimilis assimilis	2684376	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546020	ETA_353	ETA_353	Myrmotherula assimilis assimilis	2684376	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546021	MAD_057	MAD_057	Myrmotherula assimilis assimilis	2684376	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546022	MAD_060	MAD_060	Myrmotherula assimilis assimilis	2684376	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546023	MSF408	MSF408	Myrmotherula assimilis assimilis	2684376	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546024	MAD_303	MAD_303	Myrmotherula assimilis assimilis	2684376	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546025	MAD_337	MAD_337	Myrmotherula assimilis assimilis	2684376	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546026	ETA_399	ETA_399	Myrmotherula assimilis assimilis	2684376	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546027	ETA_400	ETA_400	Myrmotherula assimilis assimilis	2684376	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546028	ETA_401	ETA_401	Myrmotherula assimilis assimilis	2684376	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546029	ETA_402	ETA_402	Myrmotherula assimilis assimilis	2684376	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546030	ETA_403	ETA_403	Myrmotherula assimilis assimilis	2684376	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546031	ETA_440	ETA_440	Myrmotherula assimilis assimilis	2684376	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546032	ETA_441	ETA_441	Myrmotherula assimilis assimilis	2684376	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546033	ETA_442	ETA_442	Myrmotherula assimilis assimilis	2684376	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546034	LNN	LNN	Myrmotherula assimilis assimilis	2684376	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546035	SHBs	SHBs	Myrmotherula assimilis assimilis	2684376	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546036	ETA_490	ETA_490	Myrmotherula assimilis assimilis	2684376	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546037	ETA_491	ETA_491	Myrmotherula assimilis assimilis	2684376	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546038	ETA_509	ETA_509	Myrmotherula assimilis assimilis	2684376	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546039	ETA_559	ETA_559	Myrmotherula assimilis assimilis	2684376	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546040	ETA_560	ETA_560	Myrmotherula assimilis assimilis	2684376	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546041	JUR_011	JUR_011	Myrmotherula assimilis transamazonica	2684377	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546042	56696	56696	Myrmotherula assimilis transamazonica	2684377	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546043	ETA_003	ETA_003	Thamnophilus cryptoleucus	288040	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546044	ETA_005	ETA_005	Thamnophilus cryptoleucus	288040	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546045	ETA_007	ETA_007	Thamnophilus cryptoleucus	288040	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546046	ETA_008	ETA_008	Thamnophilus cryptoleucus	288040	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546047	ETA_062	ETA_062	Thamnophilus cryptoleucus	288040	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546048	ETA_063	ETA_063	Thamnophilus cryptoleucus	288040	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546049	ETA_174	ETA_174	Thamnophilus cryptoleucus	288040	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546050	ETA_175	ETA_175	Thamnophilus cryptoleucus	288040	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546051	ETA_176	ETA_176	Thamnophilus cryptoleucus	288040	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546052	ETA_201	ETA_201	Thamnophilus cryptoleucus	288040	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546053	ETA_202	ETA_202	Thamnophilus cryptoleucus	288040	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546054	ETA_240	ETA_240	Thamnophilus cryptoleucus	288040	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546055	ETA_242	ETA_242	Thamnophilus cryptoleucus	288040	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546056	ETA_243	ETA_243	Thamnophilus cryptoleucus	288040	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546057	ETA_289	ETA_289	Thamnophilus cryptoleucus	288040	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546058	ETA_290	ETA_290	Thamnophilus cryptoleucus	288040	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546059	ETA_331	ETA_331	Thamnophilus cryptoleucus	288040	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546060	ETA_332	ETA_332	Thamnophilus cryptoleucus	288040	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546061	ETA_334	ETA_334	Thamnophilus cryptoleucus	288040	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546062	ETA_335	ETA_335	Thamnophilus cryptoleucus	288040	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546063	ETA_418	ETA_418	Thamnophilus cryptoleucus	288040	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546064	ETA_419	ETA_419	Thamnophilus cryptoleucus	288040	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546065	ETA_420	ETA_420	Thamnophilus cryptoleucus	288040	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546066	SGC_200	SGC_200	Thamnophilus nigrocinereus cinereoniger	2684379	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546067	SGC_515	SGC_515	Thamnophilus nigrocinereus cinereoniger	2684379	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546068	GRL17	GRL17	Thamnophilus nigrocinereus cinereoniger	2684379	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546069	GRL1149	GRL1149	Thamnophilus nigrocinereus cinereoniger	2684379	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546070	GRL1261	GRL1261	Thamnophilus nigrocinereus cinereoniger	2684379	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546071	SHB360	SHB360	Thamnophilus nigrocinereus cinereoniger	2684379	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546072	SHB291	SHB291	Thamnophilus nigrocinereus cinereoniger	2684379	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546073	SHB297	SHB297	Thamnophilus nigrocinereus cinereoniger	2684379	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546074	SHBs50	SHBs50	Thamnophilus nigrocinereus cinereoniger	2684379	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546075	SHBs51	SHBs51	Thamnophilus nigrocinereus cinereoniger	2684379	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546076	JATA_026	JATA_026	Thamnophilus nigrocinereus huberi	2684382	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546077	HSLT217	HSLT217	Thamnophilus nigrocinereus huberi	2684382	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546078	A9996	A9996	Thamnophilus nigrocinereus huberi	2684382	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546079	A10000	A10000	Thamnophilus nigrocinereus huberi	2684382	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546080	A10843	A10843	Thamnophilus nigrocinereus huberi	2684382	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546081	A10844	A10844	Thamnophilus nigrocinereus huberi	2684382	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546082	A10846	A10846	Thamnophilus nigrocinereus huberi	2684382	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546083	OI001	OI001	Thamnophilus nigrocinereus kulczynskii	2684380	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546084	OI002	OI002	Thamnophilus nigrocinereus kulczynskii	2684380	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546085	OI004	OI004	Thamnophilus nigrocinereus kulczynskii	2684380	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546086	ETA_611	ETA_611	Thamnophilus nigrocinereus nigrocinereus	2684378	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546087	ETA_612	ETA_612	Thamnophilus nigrocinereus nigrocinereus	2684378	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546088	ETA_613	ETA_613	Thamnophilus nigrocinereus nigrocinereus	2684378	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546089	ETA671	ETA671	Thamnophilus nigrocinereus nigrocinereus	2684378	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546090	ETA673	ETA673	Thamnophilus nigrocinereus nigrocinereus	2684378	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546091	MAYA_003	MAYA_003	Thamnophilus nigrocinereus nigrocinereus	2684378	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546092	MAYA_019	MAYA_019	Thamnophilus nigrocinereus nigrocinereus	2684378	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546093	CHS_29	CHS_29	Thamnophilus nigrocinereus tschudii	2684381	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546094	CHS30	CHS30	Thamnophilus nigrocinereus tschudii	2684381	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546095	CHS31	CHS31	Thamnophilus nigrocinereus tschudii	2684381	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546096	ETA_389	ETA_389	Thamnophilus nigrocinereus tschudii	2684381	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546097	ETA_390	ETA_390	Thamnophilus nigrocinereus tschudii	2684381	not applicable	not applicable	not applicable	not applicable	PRJNA595086
+SAMN13546098	ETA_391	ETA_391	Thamnophilus nigrocinereus tschudii	2684381	not applicable	not applicable	not applicable	not applicable	PRJNA595086
